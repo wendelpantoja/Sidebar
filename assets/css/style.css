@@ -51,7 +51,7 @@ h2 {
     display: none;
 }
 
-#icon-menu {
+#icon-menu, .logo_out {
     cursor: pointer;
     transition: .5s;
 }
@@ -152,7 +152,6 @@ h2 {
     border-radius: 12px;
 }
 
-
 .container_user
 .user
 .user_info p:nth-child(1){
@@ -166,7 +165,6 @@ h2 {
     font-weight: 400;
     font-size: 12px;
 }
-
 
 .main {
     margin: 20px 98px;

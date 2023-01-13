@@ -5,7 +5,7 @@ Desafio promovido pela plataforma Rocketseat(discover)
 </p>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/img_preview.jpg" width="100%">
+  <img alt="sidebar" src=".github/img_preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
